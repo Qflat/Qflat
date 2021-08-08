@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Qflat
+- 👋 Hi, I’m Jaden Costa (@Qflat). I'm an Olivet College (MI) graduate in Computer Science, and recipient of the 2020 Olivet College CS/IT Student of the Year Award. 
 - 👀 I’m interested in expanding my experience in coding, whether that be through learning more languages, accomplishing more difficult projects, or both!
 - 🌱 I’m currently learning Javascript at the moment, and hope that I can expand on my Javascript in a few older projects of mine. 
 - 📫 How to reach me ... I can be emailed at JadenCosta425@gmail.com. This is my preferred method of contact as well. 
