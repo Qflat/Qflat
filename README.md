@@ -1,0 +1,10 @@
+- 👋 Hi, I’m @Qflat
+- 👀 I’m interested in expanding my experience in coding, whether that be through learning more languages, accomplishing more difficult projects, or both!
+- 🌱 I’m currently learning Javascript at the moment, and hope that I can expand on my Javascript in a few older projects of mine. 
+- 📫 How to reach me ... I can be emailed at JadenCosta425@gmail.com. This is my preferred method of contact as well. 
+
+<!---
+Qflat/Qflat is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+- 💞️ I’m looking to collaborate on 
+--->
